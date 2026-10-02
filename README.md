@@ -1,4 +1,4 @@
-# PortfolioPilot: Milestone 11 — Deterministic Provider Adapters
+# Deterministic Provider Adapters
 
 This learning activity adds repeatable quote and news providers to PortfolioPilot. It builds on the authenticated portfolio and watchlist application from milestones 01–10.
 
